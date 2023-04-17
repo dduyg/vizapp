@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.4;
+  color: rgba(0, 0, 0, 0.87);
+  font-smoothing: antialiased;
+  font-size: 18px;
+  height: 100vh;
+  background-image: linear-gradient(to right, #c9bd95, #8daa97);
+}
